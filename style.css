@@ -1,0 +1,18 @@
+h1 {
+  font-family: 'Courier New', Courier, monospace;
+}
+
+body {
+  margin: 0;
+  background-image: url('photos/beach-cropped.png');
+  background-size: cover;
+  height: 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.logo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
