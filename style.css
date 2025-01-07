@@ -1,6 +1,3 @@
-h1 {
-  font-family: 'Courier New', Courier, monospace;
-}
 
 .landing-page {
   margin: 0;
@@ -19,4 +16,8 @@ h1 {
 
 .front-page {
   background-color: grey;
+}
+
+.page-info {
+  padding: 2rem;
 }
