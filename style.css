@@ -1,3 +1,27 @@
+h1 h2 h3 h4 h5 h6 p {
+  color: 1b5759ff;
+}
+
+.treatments-box {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+}
+
+
+.swedish-box {
+  width: 30%;
+}
+
+.deep-tissue-box {
+  width: 30%;
+}
+
+.contact-page {
+  background-color: gray;
+}
+
+
 
 .landing-page {
   margin: 0;
@@ -20,8 +44,4 @@
 
 .page-info {
   padding: 2rem;
-}
-
-.navbar navbar-expand-lg navbar-light bg-light {
-  position: sticky;
 }
