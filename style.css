@@ -1,5 +1,13 @@
 h1 h2 h3 h4 h5 h6 p {
-  color: 1b5759ff;
+  color: 1b5759;
+}
+
+body {
+  background-color: f4babd;
+}
+
+.navbar-text {
+  color: 1b5759;
 }
 
 .treatments-box {
@@ -18,7 +26,7 @@ h1 h2 h3 h4 h5 h6 p {
 }
 
 .contact-page {
-  background-color: gray;
+  background-color: whitesmoke;
 }
 
 
