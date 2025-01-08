@@ -1,4 +1,7 @@
-
+.navbar-text {
+  color: #1b5759 !important;
+  font-weight: 700;
+}
 
 /* Change text colour of navbar links */
 .navbar .nav-link {
