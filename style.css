@@ -98,14 +98,10 @@ p {
   width: 45%;
 }
 
-.contact-page .locations-page {
+.contact-page .locations-page body {
   background-color: whitesmoke;
 }
 
-.locations-page {
-  background-color: whitesmoke;
-
-}
 
 
 .landing-page {
@@ -130,4 +126,10 @@ p {
 .page-info {
   padding: 4rem;
   background-color: whitesmoke;
+  height: 100vh;
+}
+
+.faq-page {
+  background-color: grey;
+
 }
