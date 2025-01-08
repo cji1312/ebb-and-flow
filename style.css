@@ -1,10 +1,65 @@
 
+
+/* Change text colour of navbar links */
+.navbar .nav-link {
+  color: #1b5759 !important; /* Your desired colour */
+}
+
+/* Change text colour when hovering over navbar links */
+.navbar .nav-link:hover {
+  color: black !important; /* Your desired hover colour */
+}
+
+/* Change navbar brand text colour */
+.navbar .navbar-brand {
+  color: #1b5759 !important; /* Your desired colour */
+}
+
+
+.navbar {
+  background: linear-gradient(to bottom, #eab3e8, #e47678); /* Gradient from green to gold */
+}
+
+.custom-text {
+  color: #ff5733; /* Custom colour */
+}
+
+.custom-text {
+  color: #ff5733; /* Custom colour */
+}
+
+
+
 .nav-link {
   color: #1b5759;
 }
 
 
-h1 h2 h3 h4 h5 h6 p {
+h1 {
+  color: #1b5759;
+}
+
+h2 {
+  color: #1b5759;
+}
+
+h3 {
+  color: #1b5759;
+}
+
+h4 {
+  color: #1b5759;
+}
+
+h5 {
+  color: #1b5759;
+}
+
+h6 {
+  color: #1b5759;
+}
+
+p {
   color: #1b5759;
 }
 
@@ -43,10 +98,14 @@ h1 h2 h3 h4 h5 h6 p {
   width: 45%;
 }
 
-.contact-page {
+.contact-page .locations-page {
   background-color: whitesmoke;
 }
 
+.locations-page {
+  background-color: whitesmoke;
+
+}
 
 
 .landing-page {
@@ -69,6 +128,6 @@ h1 h2 h3 h4 h5 h6 p {
 }
 
 .page-info {
-  padding: 8rem;
-  border: solid 3px blue;
+  padding: 4rem;
+  background-color: whitesmoke;
 }
