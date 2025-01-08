@@ -1,28 +1,44 @@
-h1 h2 h3 h4 h5 h6 p {
-  color: 1b5759;
+
+
+
+
+h1 h2 h3 h4 h5 h6 p{
+  color: #1b5759;
 }
 
-body {
-  background-color: f4babd;
+.attributes {
+  color: lightgray;
 }
 
-.navbar-text {
-  color: 1b5759;
+.socials {
+  display: flex;
+  flex-direction: row;
+}
+
+.facebook {
+  width: 50px;
+  margin: 5px;
+}
+
+.instagram {
+  width: 57px;
+  margin: 5px;
 }
 
 .treatments-box {
   display: flex;
   flex-direction: row;
-  width: 100%;
+  justify-content: space-around;
+  margin: 2em;
 }
 
 
 .swedish-box {
-  width: 30%;
+  width: 45%;
 }
 
 .deep-tissue-box {
-  width: 30%;
+  width: 45%;
 }
 
 .contact-page {
@@ -51,5 +67,6 @@ body {
 }
 
 .page-info {
-  padding: 2rem;
+  padding: 8rem;
+  border: solid 3px blue;
 }
